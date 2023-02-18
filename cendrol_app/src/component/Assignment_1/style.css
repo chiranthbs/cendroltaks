@@ -1,0 +1,50 @@
+*{
+    margin: 10px auto;
+    text-align: center;
+}
+
+#mainDiv{
+ 
+    background-color: beige;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+
+}
+
+#btnBlock{
+padding: auto;
+width: 150px;
+height: 150px;
+ text-align: center;
+ border: none;
+ background-color: yellow;
+ border-radius: 50%;
+}
+
+#colorButton{
+    background-color: mediumspringgreen;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+    
+}
+.AppDiv{
+    height: 280px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.AppDiv1{
+    height: 150;
+    width: 150px;
+    border: 2px solid black;
+}
+
+.AppDiv2{
+    height: 80px;
+    width: 200px;
+    border: 2px solid black;
+
+}
